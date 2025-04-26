@@ -39,25 +39,6 @@ Monte pipelines para processar dados em **lote** ou de forma **contínua (stream
 
 ---
 
-## 🏢 Empresas que Usam Databricks
-
-Grandes organizações utilizam o Databricks para acelerar sua jornada com dados:
-
-- 🏦 **HSBC** – Análise financeira em larga escala
-- 🎮 **SEGA** – Telemetria e dados de jogos
-- ⛽ **Shell** – Democratização de dados e modelos de ML
-- 💳 **PicPay** – Análises em tempo real para produtos financeiros
-
----
-
-## 📚 Quer Aprender Mais?
-
-A plataforma **Databricks** é essencial para profissionais de dados que desejam escalar suas soluções. Se você quer aprender os fundamentos da ferramenta, a **Alura** oferece o curso:
-
-> [`Databricks: conhecendo a ferramenta`](https://cursos.alura.com.br/course/databricks-conhecendo-ferramenta)
-
----
-
 ## 📌 Conclusão
 
 O Databricks consolida em uma única plataforma:
