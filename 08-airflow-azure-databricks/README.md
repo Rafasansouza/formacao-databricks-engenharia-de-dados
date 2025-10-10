@@ -4,7 +4,7 @@ Este repositório documenta o projeto desenvolvido durante a **Formação Engenh
 
 ---
 
-## 🧠 Objetivo
+## 🎯 Objetivo
 
 Construir um **pipeline de dados completo**, desde a **extração de dados de uma API** até a **transformação, armazenamento e notificação automática** no Slack, aplicando boas práticas de **engenharia de dados em ambiente cloud**.
 
